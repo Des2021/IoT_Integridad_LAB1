@@ -30,3 +30,5 @@ Listo para desplegar en Streamlit Community Cloud desde GitHub (solo web).
 3. Antes de lanzar, en **Advanced settings** > **Secrets** añade:
    ```toml
    hmac_key = "tu_clave_secreta_aqui"
+
+https://iotintegridadlab1-gkadfc7pzpjz7kupvtak4z.streamlit.app
